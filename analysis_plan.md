@@ -9,9 +9,9 @@ We present a draft plan for the following key questions from the Vanderbilt EPC 
 
 A quantitative meta-analysis of the effects of pharmacologic agents will focus on three major classes, **Nonsteroidal anti-inflammatory drugs (NSAID)**, **steroids** and **antiemetics**. Outcomes of interest include:
 
-+ post-operative medication use
-+ time to normal diet
-+ harms
+* post-operative medication use
+* time to normal diet
+* harms
 
 The statistical approach for estimating the expected values of each outcome following the use of perioperative pharmacologic agents depends upon the outcome measure reported by each study. 
 
@@ -62,7 +62,8 @@ The occurrence of harms within individual studies are most often reported as cou
 
 * primary hemorrhage
 * secondary hemorrhage
-* overall bleeding
+* readmission due to bleeding
+* re-operation due to bleeding
 
 This data may be modeled as binomial or Poisson random variables (depending on frequency) using the probability or rate parameter, respectively, for inference.
 
@@ -80,7 +81,7 @@ Where possible, heterogeneity due to differing baseline dosages can be accounted
 
 The approach to estimating the relative effects of surgical techniques on benefits (*i.e.* utilization) and harms mirror that for pharmacological interventions. That is, modeling count outcomes (*e.g.* occurrences of harms) as Poisson or binomial random variables and continuous outcomes as normal random variables, and estimating the effect sizes associated with each procedure.
 
-The effect size model should include and indicator for indication (Obstructive sleep apnea (OSA), tonsillectomy, or mixed), as this is anticipated to influence outcomes.
+The effect size model should include and indicator for indication (Obstructive sleep apnea (OSA), tonsillectomy, or mixed), as this is anticipated to influence outcomes. Relevant outcomes include time to return to normal diet, use of post-operative medications, and bleeding outcomes (primary, secondary, readmission due to bleeding, re-operation due to bleeding).
 
 
 ## Key Question 3 
@@ -90,6 +91,6 @@ The relative effect of full compared to partial tonsillectomy may be evaluated u
 
 \\[\theta_{ki} = g(\beta_0 + \beta_1 I(x^{(full)}_{ki}))\\]
 
-where $I$ is the indicator function that evaluates to one if $x^{(full)}_{ki}$ is true (indicating full tonsillectomy) and zero otherwise, and $g$ is an appropriate transformation, depending on the type of outcome (*e.g.* inverse-logit if we are modeling binomial counts of harms). As with KQ4, indication should also be included as a covariate.
+where $I$ is the indicator function that evaluates to one if $x^{(full)}_{ki}$ is true (indicating full tonsillectomy) and zero otherwise, and $g$ is an appropriate transformation, depending on the type of outcome (*e.g.* inverse-logit if we are modeling binomial counts of harms). As with KQ4, indication should also be included as a covariate. As with KQ 3, outcomes of interest include time to return to normal diet, use of post-operative medications, and bleeding outcomes (primary, secondary, readmission due to bleeding, re-operation due to bleeding).
 
 An efficient approach to addressing this question may be to use a common model for KQ 3 and 4, with partial vs total removal simply included as a covariate in the KQ 3 model. Potentially, this would allow for comparisons of surgical technique within the partial/total subpopulation, using explicit interaction effects in the model.
