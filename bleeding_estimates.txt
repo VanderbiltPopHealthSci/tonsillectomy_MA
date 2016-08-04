@@ -1,0 +1,109 @@
+# Reoperation
+
+## Partial
+
+ | Method | Mean | 95% CrI |
+ |------------|:------:|:------------:|
+ |  cold |  0.005 |   [0.000, 0.013] |  
+ |  electrocautery |  0.004 |   [0.000, 0.012] |  
+ |  coblation |  0.004 |   [0.000, 0.011] |  
+ |  harmonic scalpel |  0.014 |   [0.000, 0.039] |  
+ |  laser |  0.018 |   [0.000, 0.054] |  
+ |  resonance |  0.001 |   [0.000, 0.002] |  
+ |  thermal welding |  0.003 |   [0.000, 0.010] |  
+
+## Total
+
+ | Method | Mean | 95% CrI |
+ |------------|:------:|:------------:|
+ |  cold |  0.013 |   [0.005, 0.021] |  
+ |  electrocautery |  0.012 |   [0.005, 0.019] |  
+ |  coblation |  0.012 |   [0.003, 0.024] |  
+ |  harmonic scalpel |  0.039 |   [0.016, 0.069] |  
+ |  laser |  0.052 |   [0.002, 0.137] |  
+ |  resonance |  0.002 |   [0.000, 0.005] |  
+ |  thermal welding |  0.008 |   [0.000, 0.024] |  
+ 
+# Readmission
+
+## Partial
+
+ | Method | Mean | 95% CrI |
+ |------------|:------:|:------------:|
+ |  cold |    0.037 |     [0.001, 0.103] |  
+ |  electrocautery |    0.040 |     [0.002, 0.123] |  
+ |  coblation |    0.014 |     [0.001, 0.031] |  
+ |  harmonic scalpel |    0.021 |    [0.000, 0.063] |  
+ |  laser |    0.073 |     [0.002, 0.207] |  
+ |  resonance |    0.003 |     [0.000, 0.010] |  
+ |  thermal welding |    0.034 |     [0.000, 0.170] |  
+
+
+## Total
+
+ | Method | Mean | 95% CrI |
+ |------------|:------:|:------------:|
+ |  cold |    0.027 |   [0.007, 0.049] |  
+ |  electrocautery |    0.029 |   [0.007, 0.053] |  
+ |  coblation |    0.014 |   [0.001, 0.033] |  
+ |  harmonic scalpel |           0.015 |   [0.002, 0.031] |  
+ |  laser |    0.057 |   [0.007, 0.126] |  
+ |  resonance |    0.002 |   [0.000, 0.006] |  
+ |  thermal welding |    0.027 |   [0.000, 0.127] |  
+
+
+# Primary
+
+
+## Partial
+
+ | Method | Mean | 95% CrI |
+ |------------|:------:|:------------:|
+ |  cold |    0.015 |   [0.000, 0.047] |  
+ |  electrocautery |    0.015 |   [0.000, 0.053] |  
+ |  coblation |    0.015 |   [0.001, 0.042] |  
+ |  harmonic scalpel    0.0221 |   [0.000, 0.083] |  
+ |  laser |    0.039 |   [0.000, 0.129] |  
+ |  resonance |    0.014 |   [0.000, 0.060] |  
+ |  thermal welding |    0.010 |   [0.000, 0.045] |  
+  
+  
+## Total
+  
+ | Method | Mean | 95% CrI |
+ |------------|:------:|:------------:|
+ |  cold |      0.007 |            [0.001, 0.015] |  
+ |  electrocautery |      0.006 |     [0.000, 0.015] |  
+ |  coblation |      0.011 |     [0.000, 0.030] |  
+ |  harmonic scalpel      0.010 |     [0.000, 0.033] |  
+ |  laser |      0.022 |     [0.001, 0.058] |  
+ |  resonance |      0.006 |     [0.000, 0.025] |  
+ |  thermal welding |      0.005 |     [0.000, 0.021] |  
+
+
+# Secondary
+
+
+## Partial
+
+ | Method | Mean | 95% CrI |
+ |------------|:------:|:------------:|
+ |  cold |    0.023 |          [0.001, 0.059] |  
+ |  electrocautery |    0.030 |   [0.002, 0.080] |  
+ |  coblation |    0.014 |   [0.001, 0.035] |  
+ |  harmonic scalpel    0.030 |   [0.001, 0.079] |  
+ |  laser |    0.007 |   [0.000, 0.024] |  
+ |  resonance |    0.008 |   [0.000, 0.023] |  
+ |  thermal welding |    0.026 |   [0.000, 0.077] |  
+
+## Total  
+  
+ | Method | Mean | 95% CrI |
+ |------------|:------:|:------------:|
+ |  cold |  0.033 |     [0.019, 0.053] |  
+ |  electrocautery |  0.042 |     [0.024, 0.065] |  
+ |  coblation |  0.023 |     [0.007, 0.044] |  
+ |  harmonic scalpel  0.043 |     [0.018, 0.070] |  
+ |  laser |  0.012 |     [0.000, 0.034] |  
+ |  resonance |  0.011 |     [0.002, 0.024] |  
+ |  thermal welding |  0.036 |     [0.005, 0.075] |  
